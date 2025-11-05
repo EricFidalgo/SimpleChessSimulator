@@ -1,6 +1,6 @@
 # Simple C++ Chess Piece Simulator
 
-**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/SimpleChessSimulator)**
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/project.html?id=simple-chess-simulator)**
 
 ## Project Description
 This project is a command-line application that simulates the movement of four key chess pieces: the Knight, Bishop, Rook, and Queen. The game is played on a 10x10 board where the user can select a piece and input coordinates for its next move.
